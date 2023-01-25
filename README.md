@@ -1,19 +1,17 @@
 
 # Pablo Giaccon
 
-## Olá pessoal 👋
+## Hi there 👋
 
-Sou formado em Engenharia da Computação pela Universidade Tecnológica Federal do Paraná.
+I'm Pablo, a Software Engineer passionate about bringing amazing ideas to life through technology. I'm fascinated by learning, and always looking for the next level.
 
-Atualmente atuo como responsável técnico no desenvolvimento de um Marketplace, auxiliando nas tomadas de decisões e no desenvolvimento da plataforma.
+In my past experience, I had opportunities to work with: ReactJS, Next.Js, Typescript, Styled-components, Redux
 
-Sou responsável técnico no desenvolvimento front-end de uma aplicação web para gestão de prontuário médico. Além deste projeto, desenvolvi um aplicativo com React Native, para acessar agenda dos usuários do sistema.
+In my free time, I love to play games and watch movies/series.
 
-Trabalhei como desenvolvedor front-end na criação de uma plataforma web de e-commerce para modelo B2B e outra para B2C.
+-----
 
-Para aprimorar os conhecimentos, realizei o GoStack da RocketSeat, um Bootcamp incrível focado na stack javacript (ReactJS, React Native e NodeJS), com projetos práticos aplicando diversos conceitos de design patterns, metodologias de desenvolvimento, boas práticas, entre outras.
-
-Estou sempre em busca de novos conhecimentos e aprimoramento das minhas skills por meio de semanas intensivas de desenvolvimento, master class, canais do Youtube, entre outros.
+Contact me:
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PabloGiaccon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablogiaccon/)](https://www.linkedin.com/in/pablogiaccon/) 
 | 
