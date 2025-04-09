@@ -15,5 +15,5 @@ Contact me:
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PabloGiaccon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablogiaccon/)](https://www.linkedin.com/in/pablogiaccon/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-psjacon1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psjacon1995@gmail.com)](mailto:psjacon1995@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pablogiaccon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablogiaccon@gmail.com)](mailto:pablogiaccon@gmail.com)
 
